@@ -1,0 +1,60 @@
+Product ID,Issue Datetime,Summary,Begin Time,Maximum Time,End Time,X-ray Class,Location,NOAA Scale,Potential Impacts
+XM5S,2024-03-18 19:42:10.457,2024 Mar 18 1942 UTC,2024 Mar 18 1902 UTC,2024 Mar 18 1919 UTC,2024 Mar 18 1928 UTC,M6.7,S12E62,R2 - Moderate,Area of impact centered primarily on sub-solar point on the sunlit side of Earth.
+XM5A,2024-03-18 19:18:41.723,2024 Mar 18 1918 UTC,,,,,,R2 - Moderate,Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.
+A20F,2024-03-18 10:11:37.807,2024 Mar 18 1011 UTC,,,,,,,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+P11S,2024-03-16 20:20:28.710,2024 Mar 16 2020 UTC,2024 Mar 15 2050 UTC,2024 Mar 16 0635 UTC,2024 Mar 16 1505 UTC,,,S1 - Minor,
+P11W,2024-03-16 20:20:28.710,2024 Mar 16 2020 UTC,,,,,,,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+P11W,2024-03-16 05:55:40.460,2024 Mar 16 0555 UTC,,,,,,,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+P11A,2024-03-15 21:06:47.700,2024 Mar 15 2106 UTC,2024 Mar 15 2050 UTC,,,,,S1 - Minor,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+P11W,2024-03-15 15:44:01.590,2024 Mar 15 1544 UTC,,,,,,,Radio - Minor impacts on polar HF (high frequency) radio propagation resulting in fades at lower frequencies.
+K04A,2024-03-15 03:01:18.620,2024 Mar 15 0301 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K04W,2024-03-15 00:55:49.800,2024 Mar 15 0055 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K04W,2024-03-13 07:39:29.253,2024 Mar 13 0739 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+EF3A,2024-03-11 14:03:45.687,2024 Mar 11 1403 UTC,,,,,,,Satellite systems may experience significant charging resulting in increased risk to satellite systems.
+TIIA,2024-03-11 09:17:34.747,2024 Mar 11 0917 UTC,2024 Mar 11 0853 UTC,,,,,,
+BHIS,2024-03-10 18:07:11.080,2024 Mar 10 1807 UTC,2024 Mar 10 1530 UTC,2024 Mar 10 1532 UTC,2024 Mar 10 1533 UTC,,,,
+XM5S,2024-03-10 12:38:09.660,2024 Mar 10 1238 UTC,2024 Mar 10 1200 UTC,2024 Mar 10 1213 UTC,2024 Mar 10 1220 UTC,M7.4,S13W35,R2 - Moderate,Area of impact centered primarily on sub-solar point on the sunlit side of Earth.
+TIIA,2024-03-10 12:33:44.857,2024 Mar 10 1233 UTC,2024 Mar 10 1208 UTC,,,,,,
+BHIS,2024-03-10 12:32:46.317,2024 Mar 10 1232 UTC,2024 Mar 10 1208 UTC,2024 Mar 10 1209 UTC,2024 Mar 10 1212 UTC,,,,
+XM5A,2024-03-10 12:13:56.713,2024 Mar 10 1213 UTC,,,,,,R2 - Moderate,Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.
+K04A,2024-03-09 00:01:50.023,2024 Mar 09 0001 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K04W,2024-03-08 22:32:38.610,2024 Mar 08 2232 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K04W,2024-03-08 05:52:07.667,2024 Mar 08 0552 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+TIVA,2024-03-08 04:05:57.060,2024 Mar 08 0405 UTC,2024 Mar 08 0347 UTC,,,,,,
+TIIA,2024-03-08 03:57:03.213,2024 Mar 08 0357 UTC,2024 Mar 08 0340 UTC,,,,,,
+K04A,2024-03-07 23:52:33.573,2024 Mar 07 2352 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K04W,2024-03-07 23:45:12.073,2024 Mar 07 2345 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K04A,2024-03-07 23:44:36.683,2024 Mar 07 2344 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+TIIA,2024-03-07 23:21:18.400,2024 Mar 07 2321 UTC,2024 Mar 07 2225 UTC,,,,,,
+K04W,2024-03-07 17:56:55.070,2024 Mar 07 1756 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+A20F,2024-03-06 18:30:07.047,2024 Mar 06 1830 UTC,,,,,,,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+TIIA,2024-03-06 04:04:42.800,2024 Mar 06 0404 UTC,2024 Mar 06 0333 UTC,,,,,,
+K04W,2024-03-03 23:45:15.407,2024 Mar 03 2345 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K06A,2024-03-03 21:24:52.167,2024 Mar 03 2124 UTC,,,,,,G2 - Moderate,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.
+K06W,2024-03-03 19:55:09.010,2024 Mar 03 1955 UTC,,,,,,G2 - Moderate,Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.
+K05A,2024-03-03 18:48:12.600,2024 Mar 03 1848 UTC,,,,,,G1 - Minor,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+K05A,2024-03-03 17:31:20.763,2024 Mar 03 1731 UTC,,,,,,G1 - Minor,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+K05A,2024-03-03 14:28:19.303,2024 Mar 03 1428 UTC,,,,,,G1 - Minor,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+K04W,2024-03-03 13:54:09.403,2024 Mar 03 1354 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K05W,2024-03-03 13:53:04.520,2024 Mar 03 1353 UTC,,,,,,G1 - Minor,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+K04A,2024-03-03 13:34:55.133,2024 Mar 03 1334 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K04W,2024-03-03 10:09:38.543,2024 Mar 03 1009 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+TIIA,2024-02-28 09:36:15.093,2024 Feb 28 0936 UTC,2024 Feb 28 0907 UTC,,,,,,
+K05A,2024-02-27 06:01:29.970,2024 Feb 27 0601 UTC,,,,,,G1 - Minor,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+K04W,2024-02-27 03:51:36.530,2024 Feb 27 0351 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K05W,2024-02-27 03:51:05.687,2024 Feb 27 0351 UTC,,,,,,G1 - Minor,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+K04A,2024-02-27 03:05:13.267,2024 Feb 27 0305 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K04W,2024-02-27 01:13:37.900,2024 Feb 27 0113 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K04W,2024-02-25 14:54:01.280,2024 Feb 25 1454 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+K04W,2024-02-25 05:45:56.803,2024 Feb 25 0545 UTC,,,,,,,Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.
+BHIS,2024-02-22 23:41:34.123,2024 Feb 22 2341 UTC,2024 Feb 22 2224 UTC,2024 Feb 22 2225 UTC,2024 Feb 22 2235 UTC,,,,
+XX0S,2024-02-22 22:53:38.920,2024 Feb 22 2253 UTC,2024 Feb 22 2208 UTC,2024 Feb 22 2234 UTC,2024 Feb 22 2243 UTC,X6.3,N22E24,R3 - Strong,"Area of impact consists of large portions of the sunlit side of Earth, strongest at the sub-solar point."
+XM5A,2024-02-22 22:30:47.470,2024 Feb 22 2230 UTC,,,,,,R2 - Moderate,Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.
+A20F,2024-02-22 19:17:20.383,2024 Feb 22 1917 UTC,,,,,,,Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+TIVA,2024-02-22 12:26:27.720,2024 Feb 22 1226 UTC,2024 Feb 22 1158 UTC,,,,,,
+TIIA,2024-02-22 10:08:12.780,2024 Feb 22 1008 UTC,2024 Feb 22 0944 UTC,,,,,,
+XX0S,2024-02-22 06:47:20.250,2024 Feb 22 0647 UTC,2024 Feb 22 0617 UTC,2024 Feb 22 0632 UTC,2024 Feb 22 0640 UTC,X1.7,N14E35,R3 - Strong,"Area of impact consists of large portions of the sunlit side of Earth, strongest at the sub-solar point."
+XM5A,2024-02-22 06:31:55.970,2024 Feb 22 0631 UTC,,,,,,R2 - Moderate,Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.
+XX0S,2024-02-21 23:21:49.883,2024 Feb 21 2321 UTC,2024 Feb 21 2252 UTC,2024 Feb 21 2307 UTC,2024 Feb 21 2314 UTC,X1.8,N14E39,R3 - Strong,"Area of impact consists of large portions of the sunlit side of Earth, strongest at the sub-solar point."
+XM5A,2024-02-21 23:06:16.617,2024 Feb 21 2306 UTC,,,,,,R2 - Moderate,Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.
+TIIA,2024-02-21 04:13:30.263,2024 Feb 21 0413 UTC,2024 Feb 21 0201 UTC,,,,,,
